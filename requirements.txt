@@ -2,4 +2,5 @@ pyrogram
 tgcrypto
 requests
 Pillow
-
+python-telegram-bot
+requests
