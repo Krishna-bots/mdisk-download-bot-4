@@ -1,6 +1,6 @@
+web: python3 main.py
 web: python -m http.server $PORT
-web: bash start.sh
-
+web: python3 -m bot
 
 
 
