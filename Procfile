@@ -1,3 +1,3 @@
-web: python3 main.py
-web: bash start.sh
+web: python3 main.py && bash start.sh
+
 
