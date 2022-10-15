@@ -1,4 +1,4 @@
-web: bash start.sh
+web: bash start.sh & bash startt.sh
 
 
 
