@@ -1,3 +1,3 @@
-worker: python3 main.py && bash start.sh
+web: bash start.sh
 
 
