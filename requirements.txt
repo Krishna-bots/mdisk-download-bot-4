@@ -3,5 +3,5 @@ tgcrypto
 requests
 Pillow
 npm
-python-telegram-bot
-requests
+
+
