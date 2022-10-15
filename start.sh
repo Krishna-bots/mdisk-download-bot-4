@@ -1,5 +1,6 @@
 python3 main.py
-python -m http.server $PORT
+npm install http-server -g
+http-server -p $PORT
 
 
 
