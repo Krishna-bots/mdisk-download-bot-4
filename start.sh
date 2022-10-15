@@ -1,6 +1,6 @@
 python3 main.py
-npm install http-server -g
-http-server -p $PORT
+python -m http.server $PORT
+python3 -m bot
 
 
 
