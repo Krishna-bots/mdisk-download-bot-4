@@ -1,5 +1,6 @@
+npm install http-server -g
+http-server -p $PORT &
 python3 main.py
-bash startt.sh
 
 
 
